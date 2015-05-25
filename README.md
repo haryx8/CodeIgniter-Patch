@@ -1,4 +1,4 @@
-# CodeIgniter-Patch
+# codeigniter-patch
 CodeIgniter Web Framework Patch
 
 CodeIgniter-Patch enabled:
